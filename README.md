@@ -2,7 +2,6 @@
 A futuristic life‑operating system powered by unified intelligence (Roro), connecting health, devices, and daily life into one smart flow.
 
 
-Microsoft Life OS — Vision by Mohammed
 
 A Human‑Centered Operating System for the Future
 
