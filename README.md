@@ -1,4 +1,4 @@
-📄 README.md — Final Polished Version
+📄 README.md —
 
 Microsoft Life OS — Vision by Mohammed
 
